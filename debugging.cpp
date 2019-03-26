@@ -5,7 +5,6 @@ using namespace std;
 void Method1();
 void Method2();
 void Method3();
-
 int main ()
 {
     const int SIZE = 6;
