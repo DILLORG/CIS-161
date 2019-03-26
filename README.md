@@ -1,2 +1,2 @@
 # CIS-161
-Academic
+Academic Repository demonstrating the things I learned during my C++ course.
